@@ -2,8 +2,6 @@
 
 ## Coordonnées
 - **Email** : [julienrichard.emp@gmail.com](mailto:julienrichard.emp@gmail.com)
-- **Téléphone** : 06 33 49 07 40
-- **Adresse** : 120 rue des Pyrénées, 75020, Paris
 - **Portfolio** : [jurichar.vercel.app](https://jurichar.vercel.app)
 - **LinkedIn** : [Julien Richard](https://www.linkedin.com/in/julien-rchd/)
 
